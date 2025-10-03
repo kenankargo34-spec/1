@@ -1,0 +1,27 @@
+# WordPress Eklentisi Çeviri Dosyası
+# Copyright (C) 2025 My Custom Plugin
+# This file is distributed under the same license as the My Custom Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: My Custom Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/my-custom-plugin\n"
+"POT-Creation-Date: 2025-01-08 10:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+
+msgid "My Custom Plugin Ayarları"
+msgstr "My Custom Plugin Ayarları"
+
+msgid "Başlık"
+msgstr "Başlık"
+
+msgid "İçerik"
+msgstr "İçerik"
+
+msgid "Renk"
+msgstr "Renk"
+
+msgid "Ayarlar kaydedildi!"
+msgstr "Ayarlar kaydedildi!"

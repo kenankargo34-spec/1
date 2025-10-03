@@ -1,0 +1,51 @@
+.mcp-content-box {
+    border-left: 4px solid #3498db;
+    padding: 20px;
+    margin: 20px 0;
+    background: #f9f9f9;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.mcp-content-box:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    transform: translateY(-2px);
+}
+
+.mcp-title {
+    margin: 0 0 15px 0;
+    font-size: 1.4em;
+    font-weight: 600;
+    color: #3498db;
+}
+
+.mcp-content {
+    line-height: 1.6;
+    color: #333;
+    font-size: 14px;
+}
+
+.mcp-content p {
+    margin-bottom: 10px;
+}
+
+.mcp-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Responsive tasarım */
+@media (max-width: 768px) {
+    .mcp-content-box {
+        padding: 15px;
+        margin: 15px 0;
+    }
+    
+    .mcp-title {
+        font-size: 1.2em;
+    }
+    
+    .mcp-content {
+        font-size: 13px;
+    }
+}

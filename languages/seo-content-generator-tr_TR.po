@@ -1,0 +1,140 @@
+# Copyright (C) 2024 SEO Content Generator
+# This file is distributed under the same license as the SEO Content Generator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO Content Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/seo-content-generator\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-01 00:00:00+00:00\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Cascade AI Assistant\n"
+"X-Domain: seo-content-generator\n"
+
+#. Plugin Name of the plugin
+msgid "SEO Content Generator"
+msgstr "SEO İçerik Üretici"
+
+#. Description of the plugin
+msgid "Automatically generates SEO-optimized articles to improve search rankings and increase visitor count."
+msgstr "Arama sıralamalarını iyileştirmek ve ziyaretçi sayısını artırmak için otomatik olarak SEO uyumlu makaleler üretir."
+
+#. Author of the plugin
+msgid "Your Name"
+msgstr "Sizin Adınız"
+
+#: seo-content-generator.php:94
+#: seo-content-generator.php:95
+msgid "SEO Content Generator"
+msgstr "SEO İçerik Üretici"
+
+#: seo-content-generator.php:104
+#: seo-content-generator.php:105
+#: seo-content-generator.php:132
+msgid "Test Content Generation"
+msgstr "Test İçeriği Oluşturma"
+
+#: seo-content-generator.php:140
+msgid "Keyword"
+msgstr "Anahtar Kelime"
+
+#: seo-content-generator.php:141
+msgid "Enter a keyword to generate a test article."
+msgstr "Test makalesi oluşturmak için bir anahtar kelime girin."
+
+#: seo-content-generator.php:145
+msgid "Generate Test Article"
+msgstr "Test Makalesi Oluştur"
+
+#: seo-content-generator.php:159
+msgid "Keywords Settings"
+msgstr "Anahtar Kelime Ayarları"
+
+#: seo-content-generator.php:165
+msgid "API Settings"
+msgstr "API Ayarları"
+
+#: seo-content-generator.php:171
+msgid "Content Settings"
+msgstr "İçerik Ayarları"
+
+#: seo-content-generator.php:178
+msgid "Target Keywords"
+msgstr "Hedef Anahtar Kelimeler"
+
+#: seo-content-generator.php:185
+msgid "OpenAI API Key"
+msgstr "OpenAI API Anahtarı"
+
+#: seo-content-generator.php:192
+msgid "Number of Articles per Day"
+msgstr "Günlük Makale Sayısı"
+
+#: seo-content-generator.php:199
+msgid "Post Category"
+msgstr "Yazı Kategorisi"
+
+#: seo-content-generator.php:206
+msgid "Post Status"
+msgstr "Yazı Durumu"
+
+#: seo-content-generator.php:213
+msgid "Select Category"
+msgstr "Kategori Seç"
+
+#: seo-content-generator.php:223
+msgid "Published"
+msgstr "Yayınlandı"
+
+#: seo-content-generator.php:223
+msgid "Draft"
+msgstr "Taslak"
+
+#: seo-content-generator.php:233
+msgid "SEO Content Generator Settings"
+msgstr "SEO İçerik Üretici Ayarları"
+
+#: seo-content-generator.php:244
+msgid "Enter keywords you want to rank for, one per line."
+msgstr "Sıralamada yer almak istediğiniz anahtar kelimeleri satır satır girin."
+
+#: seo-content-generator.php:249
+msgid "Enter your OpenAI API key for content generation."
+msgstr "İçerik üretimi için OpenAI API anahtarınızı girin."
+
+#: seo-content-generator.php:254
+msgid "Configure how the content should be generated and published."
+msgstr "İçeriğin nasıl oluşturulup yayınlanacağını yapılandırın."
+
+#: seo-content-generator.php:258
+msgid "Enter one keyword or keyword phrase per line."
+msgstr "Her satıra bir anahtar kelime veya anahtar kelime grubu girin."
+
+#: seo-content-generator.php:262
+msgid "Get your API key from OpenAI."
+msgstr "API anahtarınızı OpenAI'dan alın."
+
+#: seo-content-generator.php:266
+msgid "Number of articles to generate each day (1-10)."
+msgstr "Her gün oluşturulacak makale sayısı (1-10)."
+
+#: seo-content-generator.php:89
+msgid "Once Weekly"
+msgstr "Haftada Bir"
+
+#: seo-content-generator.php:97
+msgid "Twice Daily"
+msgstr "Günde İki Kez"
+
+#: seo-content-generator.php:228
+msgid "Dashboard"
+msgstr "Kontrol Paneli"
+
+#: seo-content-generator.php:243
+msgid "Generated Articles"
+msgstr "Oluşturulan Makaleler"

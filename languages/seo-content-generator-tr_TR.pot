@@ -1,0 +1,165 @@
+# WordPress Plugin Translation File
+# Copyright (C) 2025 SEO Content Generator
+# This file is distributed under the same license as the SEO Content Generator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO Content Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/seo-content-generator\n"
+"POT-Creation-Date: 2025-01-08 10:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+
+msgid "SEO Content Generator"
+msgstr "SEO İçerik Üreticisi"
+
+msgid "SEO Content"
+msgstr "SEO İçerik"
+
+msgid "API Ayarları"
+msgstr "API Ayarları"
+
+msgid "Anahtar Kelimeler"
+msgstr "Anahtar Kelimeler"
+
+msgid "Oluşturulan Makaleler"
+msgstr "Oluşturulan Makaleler"
+
+msgid "Hızlı İşlemler"
+msgstr "Hızlı İşlemler"
+
+msgid "Tek tıkla içerik oluşturun ve yönetin."
+msgstr "Tek tıkla içerik oluşturun ve yönetin."
+
+msgid "Toplu Makale Oluştur"
+msgstr "Toplu Makale Oluştur"
+
+msgid "Otomatik Üretimi Başlat"
+msgstr "Otomatik Üretimi Başlat"
+
+msgid "Otomatik Üretimi Durdur"
+msgstr "Otomatik Üretimi Durdur"
+
+msgid "İstatistikler"
+msgstr "İstatistikler"
+
+msgid "Toplam Makale: %d"
+msgstr "Toplam Makale: %d"
+
+msgid "SCG ile Oluşturulan: %d"
+msgstr "SCG ile Oluşturulan: %d"
+
+msgid "Kullanılan Anahtar Kelime: %d"
+msgstr "Kullanılan Anahtar Kelime: %d"
+
+msgid "API Sağlayıcı"
+msgstr "API Sağlayıcı"
+
+msgid "API Anahtarları"
+msgstr "API Anahtarları"
+
+msgid "Her satıra bir API anahtarı girin. Birden fazla anahtar kullanarak rate limit sorunlarını önleyebilirsiniz."
+msgstr "Her satıra bir API anahtarı girin. Birden fazla anahtar kullanarak rate limit sorunlarını önleyebilirsiniz."
+
+msgid "API Rotasyonu"
+msgstr "API Rotasyonu"
+
+msgid "API anahtarlarını döngüsel olarak kullan"
+msgstr "API anahtarlarını döngüsel olarak kullan"
+
+msgid "API Bağlantısını Test Et"
+msgstr "API Bağlantısını Test Et"
+
+msgid "Anahtar Kelime Yönetimi"
+msgstr "Anahtar Kelime Yönetimi"
+
+msgid "Anahtar Kelime Önerici"
+msgstr "Anahtar Kelime Önerici"
+
+msgid "Ana kelime girin (örn: wordpress)"
+msgstr "Ana kelime girin (örn: wordpress)"
+
+msgid "Kelime Öner"
+msgstr "Kelime Öner"
+
+msgid "Her satıra bir anahtar kelime girin..."
+msgstr "Her satıra bir anahtar kelime girin..."
+
+msgid "Her satıra bir anahtar kelime girin. Bu kelimeler makale oluşturmak için kullanılacak."
+msgstr "Her satıra bir anahtar kelime girin. Bu kelimeler makale oluşturmak için kullanılacak."
+
+msgid "Anahtar Kelimeleri Kaydet"
+msgstr "Anahtar Kelimeleri Kaydet"
+
+msgid "Kullanılmış Anahtar Kelimeler"
+msgstr "Kullanılmış Anahtar Kelimeler"
+
+msgid "Henüz oluşturulmuş makale bulunmuyor."
+msgstr "Henüz oluşturulmuş makale bulunmuyor."
+
+msgid "Başlık"
+msgstr "Başlık"
+
+msgid "Durum"
+msgstr "Durum"
+
+msgid "Tarih"
+msgstr "Tarih"
+
+msgid "Anahtar Kelime"
+msgstr "Anahtar Kelime"
+
+msgid "İşlemler"
+msgstr "İşlemler"
+
+msgid "Düzenle"
+msgstr "Düzenle"
+
+msgid "Önizle"
+msgstr "Önizle"
+
+msgid "Görüntüle"
+msgstr "Görüntüle"
+
+msgid "SCG: Haber Kaynakları (Çoklu URL)"
+msgstr "SCG: Haber Kaynakları (Çoklu URL)"
+
+msgid "Birden fazla haber URL'si ekleyin, \"Haberlerden İçerik Üret\" ile bu kaynaklardan tek ve özgün bir içerik oluşturulur."
+msgstr "Birden fazla haber URL'si ekleyin, \"Haberlerden İçerik Üret\" ile bu kaynaklardan tek ve özgün bir içerik oluşturulur."
+
+msgid "Yeni ekle"
+msgstr "Yeni ekle"
+
+msgid "Haberlerden İçerik Üret"
+msgstr "Haberlerden İçerik Üret"
+
+msgid "İşleniyor…"
+msgstr "İşleniyor…"
+
+msgid "Güvenlik doğrulaması başarısız."
+msgstr "Güvenlik doğrulaması başarısız."
+
+msgid "Yetkiniz yok."
+msgstr "Yetkiniz yok."
+
+msgid "Lütfen en az bir URL girin."
+msgstr "Lütfen en az bir URL girin."
+
+msgid "API anahtarı bulunamadı. Lütfen API ayarlarını kontrol edin."
+msgstr "API anahtarı bulunamadı. Lütfen API ayarlarını kontrol edin."
+
+msgid "İçerik başarıyla oluşturuldu!"
+msgstr "İçerik başarıyla oluşturuldu!"
+
+msgid "Ayarlar kaydedildi!"
+msgstr "Ayarlar kaydedildi!"
+
+msgid "Anahtar kelimeler kaydedildi!"
+msgstr "Anahtar kelimeler kaydedildi!"
+
+msgid "Daily (SCG)"
+msgstr "Günlük (SCG)"
+
+msgid "Sıkça Sorulan Sorular"
+msgstr "Sıkça Sorulan Sorular"
